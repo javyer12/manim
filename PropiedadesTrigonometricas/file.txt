@@ -1,1 +1,7 @@
 manim -pql nombre_archivo.py DemostracionEulerAvanzada
+
+# python3 -m venv mi_entorno
+# source mi_entorno/bin/activate
+# pip install --upgrade pip
+# pip install matplotlib pandasN
+

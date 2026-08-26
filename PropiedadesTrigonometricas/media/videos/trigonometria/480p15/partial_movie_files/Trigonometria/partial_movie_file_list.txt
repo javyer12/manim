@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/trigonometria/480p15/partial_movie_files/Trigonometria/1584795214_1841056351_223132457.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/trigonometria/480p15/partial_movie_files/Trigonometria/4072820271_3828439313_1242191518.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/trigonometria/480p15/partial_movie_files/Trigonometria/4072820271_2208340077_3730745730.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/trigonometria/480p15/partial_movie_files/Trigonometria/4072820271_1197117989_2004913573.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/trigonometria/480p15/partial_movie_files/Trigonometria/4072820271_1432596116_2632989558.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/trigonometria/480p15/partial_movie_files/Trigonometria/4072820271_887515199_1956668018.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/trigonometria/480p15/partial_movie_files/Trigonometria/4072820271_568219943_1292085393.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/trigonometria/480p15/partial_movie_files/Trigonometria/4072820271_1432596116_27047734.mp4'
