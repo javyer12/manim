@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/CirculoUnitario/480p15/partial_movie_files/UnitCircleAnimation/1584795214_1872250724_223132457.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/CirculoUnitario/480p15/partial_movie_files/UnitCircleAnimation/4072820271_2605362479_3023542223.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/CirculoUnitario/480p15/partial_movie_files/UnitCircleAnimation/4072820271_2624705457_607562632.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/CirculoUnitario/480p15/partial_movie_files/UnitCircleAnimation/4072820271_2147101720_71210725.mp4'
+file 'file:/Users/franciscomurillo/Documents/L_proyects/manin/PropiedadesTrigonometricas/media/videos/CirculoUnitario/480p15/partial_movie_files/UnitCircleAnimation/4072820271_2688965532_3459669613.mp4'
